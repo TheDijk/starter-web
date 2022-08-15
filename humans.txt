@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Theo Dijkstra Theo@NoWhere.com @zaa
 
 # THANKS
 
